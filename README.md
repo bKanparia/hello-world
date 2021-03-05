@@ -1,2 +1,2 @@
 # hello-world
-my names bk 
+Creted my first  git repo.
